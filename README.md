@@ -1,8 +1,10 @@
 # CustomTopAppBar-JetpackCompose
 
 ![](preview.png)
+![](preview2.png)
+![](preview3.png)
 
-This project will teach how to create a custom Top App Bar with a transparent Status Bar using the power of Jetpack Compose.
+This project will show you how to create a custom Top App Bar which will have a search component and drop down menu in it with a transparent Status Bar and image in the background using the power of Jetpack Compose.
 
 Please check out my youtube channel (Aditya Tech Developers) for more interesting content.
 
