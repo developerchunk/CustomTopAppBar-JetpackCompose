@@ -8,4 +8,4 @@ This project will show you how to create a custom Top App Bar which will have a 
 
 Please check out my youtube channel (Aditya Tech Developers) for more interesting content.
 
-Tutorial of the project is uploaded here: https://youtu.be/uo1nOcWGzKU
+Tutorial of the project is uploaded here: https://youtube.com/playlist?list=PLtJj4MnnLePZEhDumCMeJsnDNJvOsuarO
